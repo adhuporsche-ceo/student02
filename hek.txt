@@ -1,0 +1,101 @@
+STUDENT WEBSITE - EXTRA FEATURE SUGGESTIONS
+===========================================
+
+HIGH PRIORITY
+-------------
+1. Placement Dashboard
+   - Show placement progress, profile completion, applications, offers and deadlines.
+   - Add upcoming interview and placement drive reminders.
+
+2. Company and Job Drive Listings
+   - Create a faculty-managed drive/job board with company, role, salary, eligibility,
+     location, description, application deadline and vacancy details.
+   - Allow students to filter jobs by batch, department, CGPA, skills and location.
+   - Enforce eligibility automatically before students apply.
+
+3. Resume Builder and PDF Export
+   - Generate ATS-friendly resumes from submitted profile data.
+   - Support multiple templates and downloadable PDF/Word resumes.
+   - Let students choose which projects, skills and achievements appear.
+
+4. Application Workflow
+   - Add stages such as registered, shortlisting, test, interview, offer and rejected.
+   - Send email or in-app notifications on stage changes.
+   - Allow students to upload resume and supporting documents for each application.
+
+5. Interview and Assessment Preparation
+   - Add aptitude, coding and interview preparation resources.
+   - Create mock tests with scores, answer explanations and progress reports.
+   - Allow faculty to schedule mock interviews and assign interview mentors.
+
+6. Faculty Placement Analytics
+   - Show placement percentage, department-wise results and highest/average packages.
+   - Add recruiter response, offer conversion and application funnel reports.
+   - Export placement reports to PDF or Excel.
+
+MEDIUM PRIORITY
+---------------
+7. Notifications and Calendar
+   - Add email, SMS and in-app notifications for deadlines and interviews.
+   - Provide an integrated placement calendar and downloadable calendar events.
+
+8. Document Vault
+   - Store resumes, ID proof, certificates and offer letters securely.
+   - Verify document status as pending, approved or rejected.
+
+9. Student and Faculty Messaging
+   - Add a protected placement chat or announcement system.
+   - Support application-specific questions and faculty replies.
+
+10. Mock and Real Coding Tests
+    - Integrate timed coding assessments with test cases and difficulty levels.
+    - Track solved problems and skill growth over time.
+
+11. Alumni Network
+    - Display placement mentors and alumni by department or company.
+    - Enable approved mentorship and referral requests.
+
+12. Recruiter Portal
+    - Give verified recruiters access to eligible submitted profiles.
+    - Support shortlisting, interview scheduling and offer collection.
+
+13. Profile Strength and Placement Readiness
+    - Score profile completeness and suggest missing skills or projects.
+    - Display readiness categories such as needs improvement, ready or placement-ready.
+
+14. Referral and Recommendation System
+    - Track referrals from faculty and alumni.
+    - Record referral source and outcome for each application.
+
+15. Accessibility and Mobile Experience
+    - Improve keyboard navigation, screen-reader labels and high-contrast mode.
+    - Make tables, forms and timelines fully usable on phones.
+
+ADVANCED FEATURES
+-----------------
+16. AI Resume Review
+    - Review resume structure, grammar, keywords and role alignment.
+    - Generate improvement suggestions without exposing private student data.
+
+17. AI Job Matching
+    - Match student skills and CGPA with relevant company requirements.
+    - Show matched, missing and recommended skills for every role.
+
+18. AI Interview Practice
+    - Run role-based mock interviews with voice/text answers and feedback.
+    - Track confidence, response quality and repeated weaknesses.
+
+19. Certificate and Offer Verification
+    - Add upload, verification and tamper-evidence workflows.
+    - Restrict sensitive documents to authorized students and faculty.
+
+20. Audit and Privacy Controls
+    - Log all profile, document, recruiter and faculty actions.
+    - Add consent management and student-controlled profile visibility.
+
+RECOMMENDED IMPLEMENTATION ORDER
+--------------------------------
+Phase 1: Placement dashboard, job drive listings, resume builder and deadline reminders.
+Phase 2: Interview workflow, document vault, notifications and analytics.
+Phase 3: Recruiter portal, coding tests, alumni mentoring and accessibility improvements.
+Phase 4: AI resume review, AI job matching and AI interview practice.
